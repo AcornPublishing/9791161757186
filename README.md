@@ -1,16 +1,9 @@
-# Apress Source Code
+# 『서버리스 보안』 예제 소스 코드
 
-This repository accompanies [*Serverless Security: Understand, Assess, and Implement Secure and Reliable Applications in AWS, Microsoft Azure, and Google Cloud*](https://www.apress.com/9781484260999) by Miguel A. Calles (Apress, 2021).
+이 리포지토리는 **[『서버리스 보안』](https://www.apress.com/9781484260999)**의 공식 예제 소스 코드입니다.
 
-[comment]: #cover
-![Cover image](9781484260999.jpg)
+![표지 이미지](9791161757186.jpg)
 
-Download the files as a zip using the green button, or clone the repository to your machine using Git.
-
-## Releases
-
-Release v1.0 corresponds to the code in the published book, without corrections or updates.
-
-## Contributions
-
-See the file Contributing.md for more information on how you can contribute to this repository.
+**코드 다운로드:**
+* `<> Code` 버튼 > `Download ZIP`
+* 또는 Git으로 `clone`
